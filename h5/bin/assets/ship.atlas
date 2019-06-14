@@ -1,0 +1,178 @@
+{
+    "frames": {
+        "ship0001.png": {
+            "frame": {
+                "h": 61,
+                "idx": 0,
+                "w": 47,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 62,
+                "w": 47
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "ship0002.png": {
+            "frame": {
+                "h": 61,
+                "idx": 0,
+                "w": 47,
+                "x": 0,
+                "y": 62
+            },
+            "sourceSize": {
+                "h": 62,
+                "w": 47
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "ship0003.png": {
+            "frame": {
+                "h": 61,
+                "idx": 0,
+                "w": 47,
+                "x": 48,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 62,
+                "w": 47
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "ship0004.png": {
+            "frame": {
+                "h": 61,
+                "idx": 0,
+                "w": 47,
+                "x": 48,
+                "y": 62
+            },
+            "sourceSize": {
+                "h": 62,
+                "w": 47
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "ship0005.png": {
+            "frame": {
+                "h": 61,
+                "idx": 0,
+                "w": 47,
+                "x": 96,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 62,
+                "w": 47
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "ship0006.png": {
+            "frame": {
+                "h": 61,
+                "idx": 0,
+                "w": 47,
+                "x": 96,
+                "y": 62
+            },
+            "sourceSize": {
+                "h": 62,
+                "w": 47
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "ship0007.png": {
+            "frame": {
+                "h": 61,
+                "idx": 0,
+                "w": 47,
+                "x": 144,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 62,
+                "w": 47
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "ship0008.png": {
+            "frame": {
+                "h": 61,
+                "idx": 0,
+                "w": 47,
+                "x": 144,
+                "y": 62
+            },
+            "sourceSize": {
+                "h": 62,
+                "w": 47
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "ship0009.png": {
+            "frame": {
+                "h": 61,
+                "idx": 0,
+                "w": 47,
+                "x": 192,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 62,
+                "w": 47
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "ship0010.png": {
+            "frame": {
+                "h": 62,
+                "idx": 0,
+                "w": 47,
+                "x": 192,
+                "y": 62
+            },
+            "sourceSize": {
+                "h": 62,
+                "w": 47
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "ship.png",
+        "prefix": "ship/"
+    }
+}
